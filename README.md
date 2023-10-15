@@ -1,6 +1,6 @@
 # loginpage
 
-A new Flutter project.
+Login UI in Flutter.
 
 ## Getting Started
 
